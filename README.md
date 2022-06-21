@@ -1,2 +1,2 @@
-# My-M-And-A-project
+# My-M-And-A project
 good
